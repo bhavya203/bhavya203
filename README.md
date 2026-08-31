@@ -27,7 +27,7 @@ const bhavyaE = {
   location: "Hassan, Karnataka, India",
   currentlyStudying: "B.E. in Computer Science and Engineering — CGPA 8.23 (Expected 2027)",
   stack: {
-    languages: ["Python"],
+    languages: ["Python","JAVA"],
     webDev: ["HTML", "CSS", "JavaScript"],
     machineLearningNLP: ["scikit-learn", "BERT", "TF-IDF", "Cosine Similarity", "Pandas", "NumPy"],
     frameworks: ["Flask"],
